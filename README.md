@@ -122,7 +122,3 @@ source ./scripts/run.sh --ngrok
 - [ ] Support better Embedding Model for Vietnamese and other languages.
 - [ ] ReAct Agent.
 - [ ] Document mangement (Qrdant, MongoDB,...)
-
-## 🌟 Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=datvodinh/rag-chatbot&type=Date)](https://star-history.com/#datvodinh/rag-chatbot&Date)
